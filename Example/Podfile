@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MultiSegmentedControl_Example' do
+  pod 'MultiSegmentedControl', :path => '../'
+
+  target 'MultiSegmentedControl_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
