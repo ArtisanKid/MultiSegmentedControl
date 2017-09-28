@@ -1,0 +1,19 @@
+PODS:
+  - Masonry (1.1.0)
+  - MultiSegmentedControl (0.1.0):
+    - Masonry
+
+DEPENDENCIES:
+  - MultiSegmentedControl (from `../`)
+
+EXTERNAL SOURCES:
+  MultiSegmentedControl:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MultiSegmentedControl: 12e23ac3851f1a8e578bd6615ca7b5c01ffda459
+
+PODFILE CHECKSUM: cac50383c6e7761dd0fa9e8cd2c9b9037ab183fc
+
+COCOAPODS: 1.1.1
